@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+Thumbs.db
+desktop.ini
+.env
+data/
+checkpoints/
+*.pt
+*.ckpt
+*.safetensors
