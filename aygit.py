@@ -1,3 +1,4 @@
+# deneme dali
 import torch
 
 if torch.cuda.is_available():
